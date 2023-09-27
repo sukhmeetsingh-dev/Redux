@@ -1,0 +1,1 @@
+this app is made for understanding the concepts of redux app only.
